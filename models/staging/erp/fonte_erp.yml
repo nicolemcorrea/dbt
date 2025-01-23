@@ -12,3 +12,6 @@ sources:
               - not_null
       - name: products
       - name: suppliers
+      - name: employees
+      - name: orders
+      - name: order_details
